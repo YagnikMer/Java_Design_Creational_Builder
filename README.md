@@ -1,6 +1,4 @@
-# Java_Design_Creational_Builder
-
-Java Builder Design Pattern
+# Java Builder Design Pattern
 
 complex object represent step by step and the final step will return the object.
 
